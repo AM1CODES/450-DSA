@@ -1,7 +1,6 @@
-package Array;
 import java.util.*;
 /*
-The goal is to make a program that takes a String input from the user and 
+The goal is to make a program that takes a String input from the user and reverse it
 */
 class reverseString
 {
